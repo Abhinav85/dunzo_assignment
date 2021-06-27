@@ -1,0 +1,24 @@
+{
+  "name": "dunzo_assignment",
+  "version": "1.0.0",
+  "description": "Test assignment for Dunzo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav85/dunzo_assignment.git"
+  },
+  "author": "Abhinav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhinav85/dunzo_assignment/issues"
+  },
+  "homepage": "https://github.com/Abhinav85/dunzo_assignment#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^9.0.1"
+  }
+}
